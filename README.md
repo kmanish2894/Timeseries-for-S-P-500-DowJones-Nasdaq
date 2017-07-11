@@ -14,7 +14,7 @@ As the initial data contains lot of noise we had to clean the data. We used Exce
 In the attached file you can see the processing code which contains 3 .pde file which includes codes. The main file is Time_series which dependent on FloatTable and Integrator. The floattable class which contains some of the main methods like floattable, scqrubqotes, getrowindex, getcolumncount. The main file contains some important methods like draw, drawtitletabs,  drawdataarea etc., 
 
 ## Result:
-Below is the output of the time series visualization with the above processing code. On the Y axis we have the open value column and on Y axis we have years ranging from 1985 to 2015 with 5 years interval.
+Below is the output of the time series visualization with the above processing code. On the Y axis we have the open value column and on X axis we have years ranging from 1985 to 2015 with 5 years interval.
 
 <b> Output of Open DowJones: </b>
 ![openouput](https://user-images.githubusercontent.com/20802996/28037994-5876732a-658b-11e7-9387-03257cd26e10.jpg)
